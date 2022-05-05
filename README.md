@@ -1,2 +1,2 @@
 # ConnectLine
-Este é um site criado por mim.
+Este é um site que criei para um provedor de internet.
